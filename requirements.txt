@@ -1,0 +1,7 @@
+Flask==2.3.2
+Werkzeug==2.3.7
+gunicorn==21.2.0   # optional: better for production
+google-cloud-storage==2.5.0
+firebase-admin==6.1.0
+google-auth==2.26.0
+google-cloud-firestore==2.21.0
